@@ -11,7 +11,7 @@ h1{ color: light rgb(16, 16, 16);
     height: fit-content;
     width:fit-content;
     border: 5px solid whitesmoke ;
-    margin-left: 17%;
+    margin-left: auto;
 }
 
 p{
