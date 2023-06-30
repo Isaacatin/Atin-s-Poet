@@ -1,24 +1,22 @@
-body{
-    background-color:rgb(244, 229, 231)
-}
-h1{ color: light rgb(16, 16, 16);
-    ;
+body {
+    background-color: light rgb(223, 212, 214);
+  }
+  h1 {
     text-transform: uppercase;
-    font-size: 5rem;
+    font-size: 3rem;
+  }
+  
+  .poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: black;
+    font-family: "Libre Baskerville", serif;
     text-align: center;
-}
-.atin-pic{
-    height: fit-content;
-    width:fit-content;
-    border: 5px solid whitesmoke ;
-    margin-left: auto;
-}
-
-p{
-    text-align: center;
-    font-size: large;
-    font-family: Caprasimo;
-    color: light rgb(16, 16, 16);
-
-    
-}
+  }
+  
+  .atin-img {
+    border: 5px solid white;
+    width: 100%;
+  }
+  
